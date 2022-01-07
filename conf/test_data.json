@@ -1,0 +1,10 @@
+{
+    "common" : {
+        "chrome_driver_path": "D:\\SeleniumDrivers\\chromedriver.exe",
+        "url" : "https://www.moneycorp.com/en-gb/"
+    },
+    "test_question2": {
+        "string_to_be_searched" : "international payments",
+        "article_url_prefix" : "https://www.moneycorp.com/en-us/"
+    }
+}
