@@ -1,6 +1,6 @@
 # Assignment_2
 The assignment has been implemented in using selenium and python through pytest test engine.
-The project can be cloned from below mentioned git repository: 
+The project can be cloned from below mentioned git repository: <br>
 https://github.com/nemjain962/Assignment_2.git
 
 To get execute the code please follow below instructions :
@@ -33,4 +33,5 @@ Based of given bandwidth, I could have implemented basic framework. Following fe
     <li>locator management class</li>
     <li>test data management class</li>
       
-A Screencast of installation and execution is also added in git documentation for your reference.
+A Screencast of installation and execution is also added in git issues section for your reference.<br>
+https://github.com/nemjain962/Assignment_2/issues/2
